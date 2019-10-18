@@ -1,5 +1,5 @@
 {
-  "name": "TidyBan App",
+  "name": "TidyBanApp",
   "version": "1.0.0",
   "description": "Household Task Tracking",
   "main": "server.js",
